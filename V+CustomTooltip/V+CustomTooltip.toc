@@ -1,0 +1,5 @@
+## Interface:11200
+## Title:|cFFebdec2V+ Custom Tooltip|r |cFFFFFFFF[v0.1]|r
+## Notes:Customizable tooltip for server Vanilla Plus.
+
+addon.lua
